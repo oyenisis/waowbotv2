@@ -1,0 +1,22 @@
+{
+  "name": "waowbotv2fuckyouihateallofyou",
+  "version": "1.0.0",
+  "description": "waow",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyenisis/waowbotv2.git"
+  },
+  "keywords": [
+    "waow"
+  ],
+  "author": "Ashley Lau [@oyenisis]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oyenisis/waowbotv2/issues"
+  },
+  "homepage": "https://github.com/oyenisis/waowbotv2#readme"
+}
